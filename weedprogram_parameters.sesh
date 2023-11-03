@@ -1,1 +1,3 @@
-
+$MaintenanceMode = "Weed Hotel Staff activated Maintenance. Check back soon."
+$StaffMessage = "Message from Weed Hotel Staff"
+$BypassingMaintenance = "Weed Hotel has Maintenance mode activated." 
